@@ -16,6 +16,8 @@ Ambas versiones funcionan perfectamente pero, como le será obvio cuando vea el 
 - Deberá elegir una de las dos versiones y aplicarle *gradualmente* un proceso de refactoring hasta conseguir un código limpio y mantenible.
 - *Cada paso de mejora* deberá quedar aplicado en el código y documentado en los commits del repositorio.
 
+> Entregue esta parte del examen [en este repositorio]()
+
 ## Criterios de evaluación
 
 - Aplicación de los principios de vistos en clase

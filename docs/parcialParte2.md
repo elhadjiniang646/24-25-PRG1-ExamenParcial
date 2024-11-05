@@ -2,7 +2,7 @@
 
 Una vez obtenido un código limpio y mantenible en la parte 1, proceda a su extensión para simular una noche completa de Halloween en una manzana residencial.
 
-> Entregue el examen [en este repositorio](https://classroom.github.com/a/fC6MxWI2)
+> Entregue esta parte del examen [en este repositorio](https://classroom.github.com/a/fC6MxWI2)
 
 ## Nuevos requisitos
 
