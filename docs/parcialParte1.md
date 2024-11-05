@@ -18,6 +18,6 @@ Ambas versiones funcionan perfectamente pero, como le será obvio cuando vea el 
 
 ## Criterios de evaluación
 
-- Claridad del código resultante
-- Calidad y descriptividad de los commits realizados
 - Aplicación de los principios de vistos en clase
+- Calidad y descriptividad de los commits realizados
+- Claridad del código resultante
